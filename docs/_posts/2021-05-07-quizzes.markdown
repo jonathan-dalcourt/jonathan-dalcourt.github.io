@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Crowdsourced Comprehension Quizzes Countering Clickbait"
+date:   2021-05-07 12:45:45 -0500
+tag: projects
+---
+<ul>
+  <li>Semester: Spring 2021</li>
+  <li>Deliverable Type: Paper</li>
+  <li>Course: Problematic and Misleading Information</li>
+</ul>
+
+[Paper](../../../assets/quizzes.pdf)
+Semester-Long project on developing a framework to combat misinformation. Through this project, I learned both methodological skills and policy design.
